@@ -1,1 +1,1 @@
-[FBAN/PAAA;FBAV/446.0.0.50.109;FBDM/{density=3.0,width=1080,height=2172};FBLC/en_US;FBBV/575679065;FB_FW/2;FBSN/Android;FBDI/cc607668-ae76-401b-b22a-d78ec648cae9;FBCR/Banglalink;FBMF/TECNO;FBBD/TECNO;FBDV/TECNO CK7n;FBSV/13;FBCA/arm64-v8a:null;]
+[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/548243057;FBCR/null;FBMF/motorola;FBBD/motorola;FBDV/Moto G (4);FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]
