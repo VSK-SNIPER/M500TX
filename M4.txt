@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/61.0.0.15.69;FBBV/20748118;FBDM/{density=3.0,width=1080,height=1920};FBLC/sv_SE;FBCR/3;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G900F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/EMA;FBLC/en_GB;FBAV/278.0.0.12.120;FBDM/DisplayMetrics{density=3.0, width=1080, height=2139, scaledDensity=3.0, xdpi=403.411, ydpi=407.095, densityDpi=480, noncompatWidthPixels=1080, noncompatHeightPixels=2139, noncompatDensity=3.0, noncompatDensityDpi=480, noncompatXdpi=403.411, noncompatYdpi=407.095};]
