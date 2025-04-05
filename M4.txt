@@ -1,1 +1,1 @@
-[FBAN/EMA;FBLC/en_GB;FBAV/278.0.0.12.120;FBDM/DisplayMetrics{density=3.0, width=1080, height=2139, scaledDensity=3.0, xdpi=403.411, ydpi=407.095, densityDpi=480, noncompatWidthPixels=1080, noncompatHeightPixels=2139, noncompatDensity=3.0, noncompatDensityDpi=480, noncompatXdpi=403.411, noncompatYdpi=407.095};]
+Dalvik/2.2.0 (Linux; U; Android 10; RMX1931 Build/TD4A.874609.484) [FBAN/Orca-Android;FBAV/70.0.0.4963;FBBV/4892162;FBRV/0;FBPN/com.facebook.orca;FBLC/si_LK;FBMF/Realme;FBBD/Realme;FBDV/RMX1931;FBSV/10;FBCA/armeabi:;];FBDM/density=3.0,width=1440,height=3120;]
