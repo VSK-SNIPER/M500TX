@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/548243057;FBCR/null;FBMF/motorola;FBBD/motorola;FBDV/Moto G (4);FBSV/7.0;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.0,width=1080,height=1776};FB_FW/1;]
+Dalvik/3.0.0 (Linux; U; Android 13; Lava-Z2-Pro Build/TP2A.130171.162) [FBAN/FB4A;FBAV/79.0.0.4289;FBBV/4939356;FBDM/{density=2.9,width=1080,height=2400};FBLC/zh_TW;FBRV/4939356;FBCR/MTNL;FBMF/Lava;FBBD/Lava;FBPN/com.facebook.katana;FBDV/Lava-Z2-Pro;FBSV/13;FBCA/armeabi:;]
