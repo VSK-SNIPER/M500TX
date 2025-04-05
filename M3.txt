@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_BM;FBBV/548243055;FBCR/Grameenphone;FBMF/Symphony;FBBD/Symphony;FBDV/Z30;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1522};FB_FW/1;]
+Dalvik/2.3.0 (Linux; U; Android 8; V1802 Build/TD4A.408578.530) [FBAN/FB4A;FBAV/84.0.0.4755;FBBV/4768829;FBDM/{density=2.5,width=1080,height=1920};FBLC/th_TH;FBRV/4768829;FBCR/Banglalink;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/V1802;FBSV/8;FBCA/x86:x86_64;]
