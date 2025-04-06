@@ -1,1 +1,1 @@
-[FBAN/PAAA;FBAV/88.0.0.4444;FBDM={density=2.8,width=1080,height=1920};FBLC/gu_Qaau_IN;FBBV/4541916;FB_FW/2;FBSN/Android;FBDI/e2cddd31-51c9-43be-8516-aed765353bea;FBCR/Etisalat;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/M1804D2SG;FBSV/7;FBCA/mips:;]
+[FBAN/PAAA;FBAV/17.0.0.4243;FBDM={density=2.6,width=720,height=1600};FBLC/hi_IN;FBBV/4992104;FB_FW/2;FBSN/Android;FBDI/4bfb2ad2-9d3a-4bd6-a770-75b39cbad122;FBCR/Maxis;FBMF/Lava;FBBD/Lava;FBDV/Lava-Z1;FBSV/11;FBCA/arm64-v8a:armeabi-v7a;]
