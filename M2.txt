@@ -1,1 +1,1 @@
-Dalvik/3.0.0 (Linux; U; Android 13; Lava-Z2-Pro Build/TP2A.130171.162) [FBAN/FB4A;FBAV/79.0.0.4289;FBBV/4939356;FBDM/{density=2.9,width=1080,height=2400};FBLC/zh_TW;FBRV/4939356;FBCR/MTNL;FBMF/Lava;FBBD/Lava;FBPN/com.facebook.katana;FBDV/Lava-Z2-Pro;FBSV/13;FBCA/armeabi:;]
+[FBAN/PAAA;FBAV/13.0.0.4580;FBDM={density=2.6,width=1080,height=2400};FBLC/bn_BD;FBBV/4998107;FB_FW/2;FBSN/Android;FBDI/3329f664-928c-4190-a7c3-fd8cf355a181;FBCR/T-Mobile;FBMF/Oppo;FBBD/Oppo;FBDV/CPH2069;FBSV/11;FBCA/armeabi-v7a:armeabi;]
