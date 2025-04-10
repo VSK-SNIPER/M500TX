@@ -1,1 +1,1 @@
-Dalvik/2.1.2 (Linux; U; Android 12; XT2233-1 Build/TQ3A.574879.585) [FBAN/FB4A;FBAV/449.0.0.21.36;FBBV/18309072;FBDM/{density=2.8,width=1080,height=2400};FBLC/pl_PL;FBRV/18309072;FBCR/Tesco Mobile;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/XT2233-1;FBSV/12;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/420.0.0.32.61;FBBV/443010639;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/443010639;FBCR/Robi;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/XT2307-1;FBSV/13;FBOP/19;FBCA/armeabi-v7a:armeabi;]
