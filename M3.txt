@@ -1,1 +1,1 @@
-Dalvik/2.3.0 (Linux; U; Android 8; V1802 Build/TD4A.408578.530) [FBAN/FB4A;FBAV/84.0.0.4755;FBBV/4768829;FBDM/{density=2.5,width=1080,height=1920};FBLC/th_TH;FBRV/4768829;FBCR/Banglalink;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/V1802;FBSV/8;FBCA/x86:x86_64;]
+Dalvik/2.1.2 (Linux; U; Android 12; XT2233-1 Build/TQ3A.574879.585) [FBAN/FB4A;FBAV/449.0.0.21.36;FBBV/18309072;FBDM/{density=2.8,width=1080,height=2400};FBLC/pl_PL;FBRV/18309072;FBCR/Tesco Mobile;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/XT2233-1;FBSV/12;FBCA/arm64-v8a:;]
