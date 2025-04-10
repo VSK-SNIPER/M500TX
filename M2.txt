@@ -1,1 +1,1 @@
-[FBAN/PAAA;FBAV/13.0.0.4580;FBDM={density=2.6,width=1080,height=2400};FBLC/bn_BD;FBBV/4998107;FB_FW/2;FBSN/Android;FBDI/3329f664-928c-4190-a7c3-fd8cf355a181;FBCR/T-Mobile;FBMF/Oppo;FBBD/Oppo;FBDV/CPH2069;FBSV/11;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.2.0 (Linux; U; Android 8; M1807E8S Build/TP1A.231450.435) [FBAN/FB4A;FBAV/346.0.0.8.10;FBBV/278890224;FBDM/{density=2.7,width=1080,height=2160};FBLC/si_LK;FBRV/278890224;FBCR/O2 DE;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/M1807E8S;FBSV/8;FBCA/arm64-v8a:armeabi-v7a;]
