@@ -1,1 +1,1 @@
-Dalvik/2.2.0 (Linux; U; Android 10; RMX1931 Build/TD4A.874609.484) [FBAN/Orca-Android;FBAV/70.0.0.4963;FBBV/4892162;FBRV/0;FBPN/com.facebook.orca;FBLC/si_LK;FBMF/Realme;FBBD/Realme;FBDV/RMX1931;FBSV/10;FBCA/armeabi:;];FBDM/density=3.0,width=1440,height=3120;]
+Dalvik/2.2.0 (Linux; U; Android 10; Oukitel WP10 Build/TP1A.231450.435) [FBAN/FB4A;FBAV/169.0.0.7.38;FBBV/102728771;FBDM/{density=2.8,width=1080,height=2400};FBLC/tn_BW;FBRV/102728771;FBCR/Bell;FBMF/Oukitel;FBBD/Oukitel;FBPN/com.facebook.katana;FBDV/Oukitel WP10;FBSV/10;FBCA/arm64-v8a:null;]
