@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=3.0,width=1080,height=1806};FBLC/en_US;FBCR/TIGO;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/Phantom6;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.2.0 (Linux; U; Android 10; 2Q9A100 Build/SP1A.439052.225) [FBAN/FB4A;FBAV/94.0.0.53.13;FBBV/6847459;FBDM/{density=2.9,width=720,height=1600};FBLC/es_UY;FBRV/6847459;FBCR/Indosat;FBMF/HTC;FBBD/HTC;FBPN/com.facebook.katana;FBDV/2Q9A100;FBSV/10;FBCA/armeabi-v7a:armeabi;]
