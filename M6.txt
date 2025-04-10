@@ -1,0 +1,1 @@
+Dalvik/2.2.0 (Linux; U; Android 12; SM-G991B Build/TP1A.231450.435) [FBAN/FB4A;FBAV/272.0.0.36.36;FBBV/354170389;FBDM/{density=3.0,width=1080,height=2400};FBLC/ps_AF;FBRV/354170389;FBCR/Proximus;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-G991B;FBSV/12;FBCA/armeabi-v7a:armeabi;]
