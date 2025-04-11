@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/420.0.0.32.61;FBBV/443010639;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/443010639;FBCR/Robi;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/XT2307-1;FBSV/13;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.2 (Linux; U; Android 11; PD3220U Build/OPM8.989103.799) [FBAN/FB4A;FBAV/246.0.0.20.24;FBBV/8909246;FBDM/{density=2.8,width=3840,height=2160};FBLC/en_BD;FBRV/8909246;FBCR/Unifi Mobile;FBMF/BenQ;FBBD/BenQ;FBPN/com.facebook.katana;FBDV/PD3220U;FBSV/11;FBCA/armeabi-v7a:armeabi;]
