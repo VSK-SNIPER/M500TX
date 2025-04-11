@@ -1,1 +1,1 @@
-Dalvik/3.0.0 (Linux; U; Android 11; CPH2045 Build/TD4A.642766.940) [FBAN/FB4A;FBAV/49.0.0.29.24;FBBV/75173665;FBDM/{density=2.8,width=1080,height=2400};FBLC/tsn_BW;FBRV/75173665;FBCR/Vodafone UK;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/CPH2045;FBSV/11;FBCA/arm64-v8a:null;]
+Dalvik/2.1.2 (Linux; U; Android 12; S23Pro Build/PD2A.445766.283) [FBAN/FB4A;FBAV/91.0.0.4719;FBBV/4847351;FBDM/{density=2.6,width=720,height=1600};FBLC/ms_MY;FBRV/4847351;FBCR/BSNL;FBMF/Itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/S23Pro;FBSV/12;FBCA/armeabi:;]
