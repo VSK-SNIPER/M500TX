@@ -1,1 +1,1 @@
-Dalvik/2.1.2 (Linux; U; Android 11; PD3220U Build/OPM8.989103.799) [FBAN/FB4A;FBAV/246.0.0.20.24;FBBV/8909246;FBDM/{density=2.8,width=3840,height=2160};FBLC/en_BD;FBRV/8909246;FBCR/Unifi Mobile;FBMF/BenQ;FBBD/BenQ;FBPN/com.facebook.katana;FBDV/PD3220U;FBSV/11;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.2.0 (Linux; U; Android 4; X1i Build/RP1A.626071.650) [FBAN/FB4A;FBAV/28.0.0.4613;FBBV/4566188;FBDM/{density=3.0,width=480,height=800};FBLC/tr_TR;FBRV/4566188;FBCR/Banglalink;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/X1i;FBSV/4;FBCA/x86:x86_64;]
