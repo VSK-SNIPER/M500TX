@@ -1,1 +1,1 @@
-Dalvik/2.1.2 (Linux; U; Android 12; S23Pro Build/PD2A.445766.283) [FBAN/FB4A;FBAV/91.0.0.4719;FBBV/4847351;FBDM/{density=2.6,width=720,height=1600};FBLC/ms_MY;FBRV/4847351;FBCR/BSNL;FBMF/Itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/S23Pro;FBSV/12;FBCA/armeabi:;]
+Dalvik/2.1.0 (Linux; U; Android 6; X100 Build/RP1A.831211.447) [FBAN/Orca-Android;FBAV/74.0.0.4991;FBBV/4603840;FBRV/0;FBPN/com.facebook.orca;FBLC/ru_RU;FBMF/INFINIX;FBBD/INFINIX;FBDV/X100;FBSV/6;FBCA/x86:;];FBDM/density=1.9,width=720,height=1280;]
