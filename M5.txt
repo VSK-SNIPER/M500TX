@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/59.0.0.15.313;FBBV/20097171;FBDM/{density=1.0,width=480,height=320};FBLC/en_GB;FBCR/O2 - UK;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G130HN;FBSV/4.4.2;nullFBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.2 (Linux; U; Android 8; BLA-L29 Build/TQ3A.989101.853) [FBAN/FB4A;FBAV/89.0.0.4111;FBBV/4275006;FBDM/{density=3.0,width=1440,height=2160};FBLC/en_BD;FBRV/4275006;FBCR/Globe;FBMF/Huawei;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/BLA-L29;FBSV/8;FBCA/x86:x86_64;]
