@@ -1,1 +1,1 @@
-Dalvik/2.2.0 (Linux; U; Android 7; Oukitel K3 Build/RP1A.626071.650) [FBAN/FB4A;FBAV/28.0.0.4613;FBBV/4566188;FBDM/{density=2.8,width=1080,height=1920};FBLC/vi_VN;FBRV/4566188;FBCR/Teletalk;FBMF/Oukitel;FBBD/Oukitel;FBPN/com.facebook.katana;FBDV/Oukitel K3;FBSV/7;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 10; CP8730 Build/PPR2.363176.889) [FBAN/FB4A;FBAV/91.0.0.4035;FBBV/4326339;FBDM/{density=2.7,width=1080,height=1920};FBLC/en_US;FBRV/4326339;FBCR/Teletalk;FBMF/Coolpad;FBBD/Coolpad;FBPN/com.facebook.katana;FBDV/CP8730;FBSV/10;FBCA/arm64-v8a:armeabi-v7a;]
