@@ -1,1 +1,1 @@
-Dalvik/3.0.0 (Linux; U; Android 13; RMX3687 Build/RKQ1.249669.356) [FBAN/FB4A;FBAV/60.0.0.4926;FBBV/4244279;FBDM/{density=3.0,width=1080,height=2412};FBLC/bn_BD;FBRV/4244279;FBCR/Airtel;FBMF/Realme;FBBD/Realme;FBPN/com.facebook.katana;FBDV/RMX3687;FBSV/13;FBCA/x86:;]
+Dalvik/2.1.0 (Linux; U; Android 10; CP8730 Build/PPR2.363176.889) [FBAN/FB4A;FBAV/91.0.0.4035;FBBV/4326339;FBDM/{density=2.7,width=1080,height=1920};FBLC/en_US;FBRV/4326339;FBCR/Teletalk;FBMF/Coolpad;FBBD/Coolpad;FBPN/com.facebook.katana;FBDV/CP8730;FBSV/10;FBCA/arm64-v8a:armeabi-v7a;]
