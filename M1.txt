@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 8; M721Q Build/RP1A.831211.447) [FBAN/Orca-Android;FBAV/74.0.0.4991;FBBV/4603840;FBRV/0;FBPN/com.facebook.orca;FBLC/es_ES;FBMF/Meizu;FBBD/Meizu;FBDV/M721Q;FBSV/8;FBCA/arm64-v8a:armeabi-v7a;];FBDM/density=2.5,width=1080,height=2160;]
+Dalvik/2.1.0 (Linux; U; Android 10; CP8730 Build/PPR2.363176.889) [FBAN/FB4A;FBAV/91.0.0.4035;FBBV/4326339;FBDM/{density=2.7,width=1080,height=1920};FBLC/en_US;FBRV/4326339;FBCR/Teletalk;FBMF/Coolpad;FBBD/Coolpad;FBPN/com.facebook.katana;FBDV/CP8730;FBSV/10;FBCA/arm64-v8a:armeabi-v7a;]
