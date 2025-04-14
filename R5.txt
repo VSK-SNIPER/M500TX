@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 10; CP8730 Build/PPR2.363176.889) [FBAN/FB4A;FBAV/91.0.0.4035;FBBV/4326339;FBDM/{density=2.7,width=1080,height=1920};FBLC/en_US;FBRV/4326339;FBCR/Teletalk;FBMF/Coolpad;FBBD/Coolpad;FBPN/com.facebook.katana;FBDV/CP8730;FBSV/10;FBCA/arm64-v8a:armeabi-v7a;]
+Dalvik/2.1.0 (Linux; U; Android 4; LG-E730 Build/RP1A.187251.843) [FBAN/FB4A;FBAV/77.0.0.4378;FBBV/4674600;FBDM/{density=3.3,width=480,height=800};FBLC/en_US;FBRV/4674600;FBCR/Grameenphone;FBMF/LG;FBBD/LG;FBPN/com.facebook.katana;FBDV/LG-E730;FBSV/4;FBCA/arm64-v8a:armeabi-v7a;]
