@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 11; EX3415R Build/SP2A.628660.985) [FBAN/FB4A;FBAV/84.0.0.4202;FBBV/4191798;FBDM/{density=2.8,width=3440,height=1440};FBLC/en_US;FBRV/4191798;FBCR/Airtel;FBMF/BenQ;FBBD/BenQ;FBPN/com.facebook.katana;FBDV/EX3415R;FBSV/11;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/454.1.0.49.104;FBBV/574523204;FBDM/{density=2.2,width=1080,height=2196};FBLC/en_Qaau_US;FBRV/576436798;FBCR/Banglalink;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/M2003J15SC;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
