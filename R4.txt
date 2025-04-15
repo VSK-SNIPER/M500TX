@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 6; X100 Build/SP2A.628660.985) [FBAN/FB4A;FBAV/84.0.0.4202;FBBV/4191798;FBDM/{density=1.9,width=720,height=1280};FBLC/en_US;FBRV/4191798;FBCR/Grameenphone;FBMF/INFINIX;FBBD/INFINIX;FBPN/com.facebook.katana;FBDV/X100;FBSV/6;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/235.1.0.9.122;FBPN/com.facebook.orca;FBLC/en_US;FBBV/175782190;FBCR/null;FBMF/Amazon;FBBD/Amazon;FBDV/KFMUWI;FBSV/7.1.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=600,height=976};FB_FW/1;]
