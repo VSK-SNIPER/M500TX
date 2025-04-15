@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 4; LG-E730 Build/RP1A.187251.843) [FBAN/FB4A;FBAV/77.0.0.4378;FBBV/4674600;FBDM/{density=3.3,width=480,height=800};FBLC/en_US;FBRV/4674600;FBCR/Grameenphone;FBMF/LG;FBBD/LG;FBPN/com.facebook.katana;FBDV/LG-E730;FBSV/4;FBCA/arm64-v8a:armeabi-v7a;]
+[FBAN/FB4A;FBAV/448.0.0.30.115;FBBV/559520850;FBDM/{density=3.0,width=1080,height=2245};FBLC/en_US;FBRV/561902176;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/IN2013;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
