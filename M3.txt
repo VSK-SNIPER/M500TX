@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-J250F Build/SP2A.628660.985) [FBAN/Orca-Android;FBAV/66.0.3774.127;FBPN/com.facebook.orca;FBLC/en_US;FBBV/854283466;FBCR/XL Axiata;FBMF/SAMSUNG;FBBD/SAMSUNG;FBDV/SM-J250F;FBSV/7.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.25,height=1024,width=2048};]
+[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/502904422;FBDM/{density=2.0,width=720,height=1456};FBLC/en_GB;FBRV/0;FBCR/JIO 4G;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2185;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
