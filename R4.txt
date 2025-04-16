@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/235.1.0.9.122;FBPN/com.facebook.orca;FBLC/en_US;FBBV/175782190;FBCR/null;FBMF/Amazon;FBBD/Amazon;FBDV/KFMUWI;FBSV/7.1.2;FBCA/armeabi-v7a:armeabi;FBDM/{density=1.0,width=600,height=976};FB_FW/1;]
+Dalvik/2.2.0 (Linux; U; Android 12; CPH2387 Build/QD4A) [FBAN/PAAA;FBAV/345.0.0.17.148;FBDM/density=2.4,width=1080,height=2400;FBLC/en_US;FBBV/479363659;FB_FW/2;FBSN/Android;FBDI/4f88ee60-4d9f-49d4-a147-38b06b5968af;FBCR/Tigo PY;FBMF/OPPO;FBBD/OPPO;FBDV/CPH2387;FBSV/12;FBSV/12;FBCA/armeabi-v7a:armeabi]
