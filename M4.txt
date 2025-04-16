@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/548243062;FBCR/Robi;FBMF/Symphony;FBBD/Symphony;FBDV/Z42 pro;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1456};FB_FW/1;]
+Dalvik/2.2.0 (Linux; U; Android 8; A5010 Build/QD4A) [FBAN/PAAA;FBAV/123.0.0.7.98;FBDM/density=2.8,width=1080,height=2160;FBLC/en_US;FBBV/534336616;FB_FW/2;FBSN/Android;FBDI/bd351af6-7ec9-4c01-b06e-e3b9f2ce4d10;FBCR/Vodafone Idea;FBMF/ONEPLUS;FBBD/ONEPLUS;FBDV/A5010;FBSV/8;FBSV/8;FBCA/arm64-v8a:armeabi-v7a:armeabi]
